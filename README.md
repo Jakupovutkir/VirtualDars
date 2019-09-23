@@ -1,2 +1,2 @@
-# VirtualDars
-Virtual Dars appdeted readme
+# VirtualDars - appdeted readme
+Virtual Dars Ochiq deb elon qilindi
